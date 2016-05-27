@@ -55,7 +55,7 @@ sourcing :sunny: solar-first && off-the-grid powerstructure
   * Modem Cisco
     * ??
   
-* Lights
+* Lights (~30W)
 
-* Hydroponics
+* Hydroponics (~10W)
   * water pump
