@@ -1,5 +1,5 @@
 # :sunny: solar-first
-sourcing solar first solutions
+sourcing :sunny: solar-first && off-the-grid powerstructure
 
 
 ### Ordered 
@@ -13,9 +13,34 @@ https://www.amazon.co.uk/Compact-20000mAh-Portable-Anker-PowerCore/dp/B00VJSGT2A
 https://www.amazon.co.uk/Anker-PowerCore-Ultra-Compact-VoltageBoost-Technology/dp/B00M0EWED0/ref=sr_1_7?m=A2PGPJL0BBLHLX&s=merchant-items&ie=UTF8&qid=1464285643&sr=1-7&keywords=anker+powercore
 
 
-
 ### For Hackerdome.xyz 
 
 * Anker PowerHouse, Most Compact 434Wh / 120,000mAh Portable Generator Alternative, Silent DC/AC Power Inverter, 12V Car, AC & USB Outputs
 http://www.amazon.com/Anker-PowerHouse-Generator-Alternative-Recharges/dp/B0196GQAKM/
 video https://www.youtube.com/watch?v=4TVcaunA4G8
+
+
+### Mobile
+
+* Meizu PRO5
+  * 3050mAh
+  * 5V2A, 9V2A and 12V1.5A. 
+  * mCharge 2.0
+  
+* MacbookPro10,2
+  * 6193mAh
+  * DC 16.5V 3.65A
+
+### Hackerdome
+
+* RouterBoard Mikrotik RB951G-2HnD
+  * 7 W
+  * Power Jack 8-30V DC
+  
+* UAP-AC-PRO
+  * Maximum Power Consumption 9W
+  * Power Supply 48V, 0.5A PoE Gigabit Adapter
+  
+* Modem Cisco
+  * ??
+  
