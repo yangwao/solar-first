@@ -1,6 +1,16 @@
 # :sunny: solar-first
 sourcing :sunny: solar-first && off-the-grid powerstructure
 
+### how to pick components
+
+* Solar panel
+  * prefer mono, take least space, highest efficiency
+  * lot of CIGS/thin-film cells coming
+
+* Battery 
+  * search for datasheet first
+  * curves will be main indicator for your choice i.e charging/discharging for best efficiency
+
 # Hackerdome.xyz 
 
 ### power-infra
@@ -24,7 +34,7 @@ sourcing :sunny: solar-first && off-the-grid powerstructure
 * Battery
   * 12V
   * 17Ah
-  * AGM deepcycle
+  * AGM (Absorbent Glass Mat type) deepcycle
 
 ### appliance
 
