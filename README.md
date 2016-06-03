@@ -11,7 +11,7 @@ sourcing :sunny: solar-first && off-the-grid powerstructure
   * search for datasheet first
   * curves will be main indicator for your choice i.e charging/discharging for best efficiency
 
-# Hackerdome.xyz 
+# [Hackerdome.xyz](http://hackerdome.xyz)
 
 ### power-infra
 
@@ -60,32 +60,30 @@ sourcing :sunny: solar-first && off-the-grid powerstructure
 * Lights (~30W)
 
 ### planned yay
-* Anker PowerHouse 
+* [Anker PowerHouse](http://www.amazon.com/Anker-PowerHouse-Generator-Alternative-Recharges/dp/B0196GQAKM/)
   * 434Wh
   * 120Ah 
   * Portable Generator Alternative
   * Silent DC/AC Power Inverter
   * 12V Car, (110V) AC & USB Outputs
-  *  http://www.amazon.com/Anker-PowerHouse-Generator-Alternative-Recharges/dp/B0196GQAKM/
-  * video https://www.youtube.com/watch?v=4TVcaunA4G8
+  * [video](https://www.youtube.com/watch?v=4TVcaunA4G8)
 
 
 # Mobile
 
 ### power-infra
 
-* Anker PowerPort Solar 
+* [Anker PowerPort Solar](https://www.amazon.co.uk/gp/product/B012VL20GW/ref=ox_sc_act_title_1?ie=UTF8&psc=1&smid=A2PGPJL0BBLHLX)
   * 21W 
   * 2 Port USB Solar Charger
-  * https://www.amazon.co.uk/gp/product/B012VL20GW/ref=ox_sc_act_title_1?ie=UTF8&psc=1&smid=A2PGPJL0BBLHLX
 
 * Anker PowerCore 20100 
   * 20000mAh 
   * 4.8A Output
   * PowerIQ Technology
-  * https://www.amazon.co.uk/Compact-20000mAh-Portable-Anker-PowerCore-Black/dp/B00VJSGT2A/ref=aag_m_pw_dp?ie=UTF8&m=A2PGPJL0BBLHLX
-  * https://www.amazon.co.uk/Compact-20000mAh-Portable-Anker-PowerCore/dp/B00VJSGT2A/ref=sr_1_1?s=electronics&ie=UTF8&qid=1464277252&sr=1-1&keywords=powerbank
-  * https://www.amazon.co.uk/Anker-PowerCore-Ultra-Compact-VoltageBoost-Technology/dp/B00M0EWED0/ref=sr_1_7?m=A2PGPJL0BBLHLX&s=merchant-items&ie=UTF8&qid=1464285643&sr=1-7&keywords=anker+powercore
+  * [amazon]( https://www.amazon.co.uk/Compact-20000mAh-Portable-Anker-PowerCore-Black/dp/B00VJSGT2A/ref=aag_m_pw_dp?ie=UTF8&m=A2PGPJL0BBLHLX)
+  * [amazon]( https://www.amazon.co.uk/Compact-20000mAh-Portable-Anker-PowerCore/dp/B00VJSGT2A/ref=sr_1_1?s=electronics&ie=UTF8&qid=1464277252&sr=1-1&keywords=powerbank)
+  * [amazon]( https://www.amazon.co.uk/Anker-PowerCore-Ultra-Compact-VoltageBoost-Technology/dp/B00M0EWED0/ref=sr_1_7?m=A2PGPJL0BBLHLX&s=merchant-items&ie=UTF8&qid=1464285643&sr=1-7&keywords=anker+powercore)
   
 ### appliance
 * Meizu PRO5
@@ -97,3 +95,8 @@ sourcing :sunny: solar-first && off-the-grid powerstructure
   * 12.483V
   * 6277mAh
   * DC 16.5V 3.65A
+  
+# Market
+
+* used panels 
+  * [bimblesolar.com](http://bimblesolar.com/)
