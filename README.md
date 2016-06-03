@@ -34,6 +34,9 @@ sourcing :sunny: solar-first && off-the-grid powerstructure
 * Battery
   * 12V
   * 17Ah
+  * 14.5V-14.9V
+  * 13.6V-13.8V
+  * max charging current 5.1A
   * AGM (Absorbent Glass Mat type) deepcycle
 
 ### appliance
@@ -91,5 +94,6 @@ sourcing :sunny: solar-first && off-the-grid powerstructure
   * mCharge 2.0
   
 * MacbookPro10,2
-  * 6193mAh
+  * 12.483V
+  * 6277mAh
   * DC 16.5V 3.65A
