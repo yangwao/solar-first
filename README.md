@@ -60,6 +60,11 @@ sourcing :sunny: solar-first && off-the-grid powerstructure
 * Lights (~30W)
 
 ### planned yay
+
+* 12V inverter
+  * ~1000W
+  * pure sine wave (for future grid-tie)
+  
 * [Anker PowerHouse](http://www.amazon.com/Anker-PowerHouse-Generator-Alternative-Recharges/dp/B0196GQAKM/)
   * 434Wh
   * 120Ah 
